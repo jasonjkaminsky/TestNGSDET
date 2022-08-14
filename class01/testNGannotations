@@ -32,7 +32,7 @@ public class testNGannotations {
     }
 
     @AfterMethod
-    public void afterMEthod(){
+    public void afterMethod(){
         System.out.println("heyy! I AM A AFTER METHOD");
     }
 
